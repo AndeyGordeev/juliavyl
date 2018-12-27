@@ -1,0 +1,40 @@
+﻿img {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.brand {
+	font-family: 'Major Mono Display', monospace;
+	font-size: 20pt;
+}
+
+.brand:hover {
+	cursor: default;
+}
+
+.div-brand{
+	background-color: white;
+	margin: 0px 10px 0px 10px;
+	text-align: center;
+}
+
+div.image {
+	max-width: 100%;
+}
+
+.row{
+	border: 3px dotted black;
+}
+
+.citate {
+	font-family: 'Major Mono Display', monospace;
+	font-size: 30pt;
+	font-style: italic;
+	padding-top: 70px;
+}
+
+.navbar-brand {
+	font-family: 'Major Mono Display', monospace;
+	font-size: 20pt;
+}
